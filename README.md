@@ -1,16 +1,28 @@
-### Hi there 👋
+# Who am I?
+- A game programmer (currently not as a job)
+- An amateur DTMer (Just for fun, not pro)
+- A programmer (literly, as a job)
+- A noob gamer, mainly focus on rhythm games and sandbox simulation games
 
-<!--
-**JLChnToZ/JLChnToZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Skills
+- C#
+  - Unity3D
+  - XNA (Outdated, not programming with it now)
+- TypeScript (& JavaScript)
+  - Node.JS
+- Java (But I hate it)
+- C/C++ (Only for command-line/small library type gadgets)
+- Visual Basic 6/.Net (Not really using it since I learnt C#)
+- PHP (I hate it too)
+- Some other random programming languages that I'm not interested in, currently.
 
-Here are some ideas to get you started:
+## Music Skills
+- FL Studio
+- LMMS
+- Piano (Kind of know how to play, but not pro)
+- Harmonica
+- Melodica
+- Drum set (Learnt for fun around 1 summer holiday)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Skills
+Have I said that I learnt Maya 10 yrs ago to build 3D model/animation too?
