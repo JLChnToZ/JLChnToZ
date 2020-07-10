@@ -14,6 +14,7 @@
 - C/C++ (Only for command-line/small library type gadgets)
 - Visual Basic 6/.Net (Not really using it since I learnt C#)
 - PHP (I hate it too)
+- ActionScript (Don't tell me to use this again, the Flash technology for the WWW is fading out)
 - Some other random programming languages that I'm not interested in, currently.
 
 ## Music Skills
