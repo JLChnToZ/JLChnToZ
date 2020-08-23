@@ -38,10 +38,11 @@ Have I said that I learnt Maya 10 yrs ago to build 3D model/animation too?
 - [Paper Buddy](https://github.com/JLChnToZ/paperbuddy) - Toy/Development Tool/Library - Custom Paper Doll Player with Editor #Web
 - [Clipboard Tool Ex](https://github.com/JLChnToZ/clipboardtoolex) - System Tool - Clipboard Manager #Windows
 - [Elevator](https://github.com/JLChnToZ/elevator) - System Tool - Set Up Environmant and Launch Program With Providing Arguments Only #Windows
-- [Plurk Anonymous LED](https://github.com/JLChnToZ/plurk-anonymous-led) - Toy/Decoration - LED Simulator That Displays Anonymous Posts on Plurk Platform #Web #Plurk
-- [Mention Replurker Bot](https://github.com/JLChnToZ/mention-replurker-bot) - Bot - A Bot will Reposts if Someone Mentioned it on Plurk #Web #Plurk #Server
+- [Node JitterTRNG](https://github.com/JLChnToZ/node-jittertrng) - Library/Development Tool - Wrapper of Jitterentropy, a Hardware RNG Based on CPU Jittering, for Node.JS #Cross-Platform
 - [JIT Brainfuck](https://github.com/JLChnToZ/JITBrainfuck) - Development Tool - Brainfuck JIT Compiler for .NET/Mono #Cross-Platform
 - [Plurk2](https://github.com/JLChnToZ/node-plurk2) - Library/Development Tool - Plurk API Wrapper for Node.JS #Cross-Platform #Plurk
-- [Node JitterTRNG](https://github.com/JLChnToZ/node-jittertrng) - Library/Development Tool - Wrapper of Jitterentropy, a Hardware RNG Based on CPU Jittering, for Node.JS #Cross-Platform
+- [Plurk CSS Editor Mod](https://github.com/JLChnToZ/plurk-css-editor-mod) - Tool - A Bundled LESS/SCSS Editor (Monaco) for Editing Plurk Custom CSS as an User Script #Web #Plurk
+- [Plurk Anonymous LED](https://github.com/JLChnToZ/plurk-anonymous-led) - Toy/Decoration - LED Simulator That Displays Anonymous Posts on Plurk Platform #Web #Plurk
+- [Mention Replurker Bot](https://github.com/JLChnToZ/mention-replurker-bot) - Bot - A Bot will Reposts if Someone Mentioned it on Plurk #Web #Plurk #Server
 
 ... and more!
