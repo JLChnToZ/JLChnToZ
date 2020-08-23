@@ -36,6 +36,8 @@ Have I said that I learnt Maya 10 yrs ago to build 3D model/animation too?
 - [Puzzle.SVG](https://github.com/JLChnToZ/Puzzle.SVG) - Toy/Game - Jigsaw Puzzle Game Written in SVG + TypeScript #Web
 - [萌新 Maker](https://github.com/JLChnToZ/mangsan-maker) - Toy - Random Words Pattern Generator #Web
 - [Paper Buddy](https://github.com/JLChnToZ/paperbuddy) - Toy/Development Tool/Library - Custom Paper Doll Player with Editor #Web
+- [Bemusilization](https://github.com/JLChnToZ/Bemusilization) - Library/Development Tool - BMS/Bmson (Rhythm Game Chart Format) Read-Only Parser for .NET/Unity #Cross-Platform
+- [AyameFS](https://github.com/JLChnToZ/AyameFS) - Library/Development Tool - Git-Like Abstract Custom Resource Manager for Games #Cross-Platform
 - [Clipboard Tool Ex](https://github.com/JLChnToZ/clipboardtoolex) - System Tool - Clipboard Manager #Windows
 - [Elevator](https://github.com/JLChnToZ/elevator) - System Tool - Set Up Environmant and Launch Program With Providing Arguments Only #Windows
 - [Node JitterTRNG](https://github.com/JLChnToZ/node-jittertrng) - Library/Development Tool - Wrapper of Jitterentropy, a Hardware RNG Based on CPU Jittering, for Node.JS #Cross-Platform
@@ -43,9 +45,14 @@ Have I said that I learnt Maya 10 yrs ago to build 3D model/animation too?
 - [Lazy Loader](https://github.com/JLChnToZ/lazy-loader) - Library/Development Tool - An Almost Transparent Lazy-Loading Object Wrapper for JavaScript #Cross-Platform
 - [JIT Brainfuck](https://github.com/JLChnToZ/JITBrainfuck) - Development Tool - Brainfuck JIT Compiler for .NET/Mono #Cross-Platform
 - [Shota URL](https://github.com/JLChnToZ/shota-url) - Tool - A Shorten URL Service Supports Multiple Destinitions #Web
+- [Minecraft Data File to DataPack Converter](https://github.com/JLChnToZ/mcds-convert) - Gaming Tool/Development Tool - Minecraft Data Pack Packer/Unpacker #Cross-Platform
 - [Plurk2](https://github.com/JLChnToZ/node-plurk2) - Library/Development Tool - Plurk API Wrapper for Node.JS #Cross-Platform #Plurk
 - [Plurk CSS Editor Mod](https://github.com/JLChnToZ/plurk-css-editor-mod) - Tool - A Bundled LESS/SCSS Editor (Monaco) for Editing Plurk Custom CSS as an User Script #Web #Plurk
 - [Plurk Anonymous LED](https://github.com/JLChnToZ/plurk-anonymous-led) - Toy/Decoration - LED Simulator That Displays Anonymous Posts on Plurk Platform #Web #Plurk
 - [Mention Replurker Bot](https://github.com/JLChnToZ/mention-replurker-bot) - Bot - A Bot will Reposts if Someone Mentioned it on Plurk #Web #Plurk #Server
+- [Wormhole Shadow](https://github.com/JLChnToZ/wormhole-shadow) - Library/Development Tool - Transparent Proxy Of 2 Remote JavaScript Dimensions #Cross-Platform
+- [ESSH](https://github.com/JLChnToZ/essh) - System Tool/Development Tool - A Weird JavaScript Command-Line Shell #Cross-Platform
+- [Katana](https://github.com/JLChnToZ/Katana) - Development Tool/Library - An Esoteric Programming Language Inspired to S-Expression, M-Expression and JSON #Cross-Platform
+- [Zinawt](https://github.com/JLChnToZ/zinawt) - Development Tool/Library - Zinawt is Not a Web Toolkit #Web
 
 ... and more!
