@@ -56,3 +56,6 @@ Have I said that I learnt Maya 10 yrs ago to build 3D model/animation too?
 - [Zinawt](https://github.com/JLChnToZ/zinawt) - Development Tool/Library - Zinawt is Not a Web Toolkit #Web
 
 ... and more!
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=JLChnToZ&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLChnToZ&langs_count=4&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
