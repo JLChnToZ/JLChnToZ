@@ -30,3 +30,5 @@ Have I said that I learnt Maya 10 yrs ago to build 3D model/animation too?
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=JLChnToZ&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLChnToZ&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JLChnToZ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
